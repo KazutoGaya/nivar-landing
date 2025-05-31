@@ -1,0 +1,1 @@
+// JSX content placeholder for LandingPage.jsx
